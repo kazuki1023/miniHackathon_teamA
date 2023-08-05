@@ -101,7 +101,9 @@ figure {
   border-radius: 10%;
 }
 
-
+.movie-title {
+    font-weight: bold;
+}
 .Proposer-description {
     font-size: 7px;
     margin-left: 7px;
