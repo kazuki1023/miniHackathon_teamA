@@ -51,6 +51,14 @@ figure {
 }
 .Proposer-indivisual {
   width: 130px;
+  text-align: center;
+}
+
+
+.Proposer-description {
+    font-size: 7px;
+    margin-left: 7px;
+    margin-right: 7px;
 }
 /* フッター */
 footer {
