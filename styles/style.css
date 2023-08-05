@@ -3,7 +3,7 @@ body {
   position: relative;
 }
 header {
-  background-color: #08a6fa;
+  background-color: #078cd4;
   padding: 10px 0;
   position: fixed;
   height: 40px;
@@ -34,4 +34,23 @@ header {
   font-weight: 600;
   color: #efe35e;
   -webkit-text-stroke: .2px #ffb94a;
+}
+/* メイン */
+main {
+  margin-top: 60px;
+  height: 1000px;
+}
+/* フッター */
+footer {
+  background-color: #078cd4;
+  padding: 10px 0;
+  height: 60px;
+  width: 100%;
+}
+.footer-title {
+  text-align: center;
+  font-size: 12px;
+}
+.footer-title a {
+  
 }
