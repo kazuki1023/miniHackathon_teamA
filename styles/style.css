@@ -35,6 +35,13 @@ header {
   color: #efe35e;
   -webkit-text-stroke: .2px #ffb94a;
 }
+.attraction {
+  background-color: #efe35e;
+  padding: 20px;
+  margin: 0 10px;
+  border-radius: 5%;
+  color: #fa0844;
+}
 /* movie */
 .movie-name{
   padding-top: 20px;
