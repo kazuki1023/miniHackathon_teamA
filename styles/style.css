@@ -79,6 +79,16 @@ main {
 figure {
   margin: 15px;
 }
+
+.Proposer-titlejp {
+    font-weight: bold;
+    font-size: 2em;
+}
+
+.Proposer-titleen {
+    font-size: small;
+    margin-left: 15px;
+}
 .Proposer-img {
   border-radius: 50%;
 }
@@ -88,6 +98,8 @@ figure {
 .Proposer-indivisual {
   width: 130px;
   text-align: center;
+  background-color: #f4a460;
+  border-radius: 10%;
 }
 
 
