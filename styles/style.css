@@ -34,4 +34,15 @@ header {
   font-weight: 600;
   color: #efe35e;
   -webkit-text-stroke: .2px #ffb94a;
+}.Proposer-img {
+    border-radius: 50%;
+}
+
+/*メイン*/
+.Proposer-cover {
+    display: flex;
+}
+
+.Proposer-indivisual {
+    width: 130px;
 }
