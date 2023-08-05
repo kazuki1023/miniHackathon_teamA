@@ -67,7 +67,23 @@ footer {
   -webkit-text-stroke: .5px #ffb94a;
 }
 .team-name {
+  margin-top: 12px;
   font-weight: 400;
   color: #fff;
   font-size: 12px;
+  text-align: center;
+}
+.team-member {
+  font-weight: 400;
+  color: #fff;
+  font-size: 12px;
+  margin-left: auto;
+}
+.team-member ul {
+  font-weight: 600;
+  display: flex;
+  gap: 20px;
+  list-style: none;
+  justify-content: center;
+  padding: 0;
 }
