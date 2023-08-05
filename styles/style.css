@@ -35,6 +35,42 @@ header {
   color: #efe35e;
   -webkit-text-stroke: .2px #ffb94a;
 }
+/* movie */
+.movie-name{
+  text-align: center;
+  font-weight: bold;
+  color: #08a6fa;
+}
+.movie-detail{
+  display: flex;
+  margin: 10px 10px 60px 60px;
+}
+.movie-left{
+  margin-right: 20px;
+}
+.movie-right{
+  margin-top: 60px;
+  margin-left: 20px;
+}
+.movie-place{
+  color: #08a6fa;
+}
+.movie-image{
+
+}
+.movie-title{
+  font-size: 15px;
+
+}
+.movie-sentence{
+
+}
+.movie-hashtag{
+
+
+}.Proposer-img {
+    border-radius: 50%;
+}
 /*メイン*/
 main {
   margin-top: 60px;
@@ -46,8 +82,7 @@ figure {
 
 .Proposer-titlejp {
     font-weight: bold;
-    font-size: large;
-    margin-left: 10px;
+    font-size: 2em;
 }
 
 .Proposer-titleen {
@@ -65,7 +100,6 @@ figure {
   text-align: center;
   background-color: #f4a460;
   border-radius: 10%;
-  padding: 10px;
 }
 
 
