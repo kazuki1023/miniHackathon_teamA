@@ -46,15 +46,14 @@ header {
   margin: 10px 10px 60px 60px;
 }
 .movie-left{
-   margin-right: 20px;
+  margin-right: 20px;
 }
 .movie-right{
-   margin-top: 60px;
-   margin-left: 20px;
+  margin-top: 60px;
+  margin-left: 20px;
 }
 .movie-place{
-   color: #08a6fa
-   ;
+  color: #08a6fa;
 }
 .movie-image{
 
@@ -75,7 +74,6 @@ header {
 /*メイン*/
 main {
   margin-top: 60px;
-  height: 1000px;
 }
 figure {
   margin: 15px;
