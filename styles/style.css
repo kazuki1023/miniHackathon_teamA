@@ -42,7 +42,7 @@ header {
 }
 .movie-detail{
   display: flex;
-  margin: 10px 20px 20px 10px;
+  margin: 10px 10px 60px 60px;
 }
 .movie-left{
 
@@ -51,7 +51,7 @@ header {
 
 }
 .movie-place{
-
+   color: #08a6fa;
 }
 .movie-image{
 
@@ -64,4 +64,15 @@ header {
 }
 .movie-hashtag{
 
+}.Proposer-img {
+    border-radius: 50%;
+}
+
+/*メイン*/
+.Proposer-cover {
+    display: flex;
+}
+
+.Proposer-indivisual {
+    width: 130px;
 }
