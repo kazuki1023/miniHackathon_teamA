@@ -78,10 +78,20 @@ main {
 figure {
   margin: 10px;
 }
-
+.introduce-headline {
+  font-size: 20px;
+  font-weight: bold;
+  color: #08a6fa;
+  padding-top: 20px;
+  padding-left: 15px;
+}
+.introduce-section {
+  padding-left: 15px;
+}
 .Proposer-titlejp {
     font-weight: bold;
-    font-size: 2em;
+    font-size: 20px;
+    margin-left: 15px;
 }
 
 .Proposer-titleen {
@@ -99,9 +109,17 @@ figure {
 .Proposer-indivisual {
   width: 120px;
   text-align: left;
-  background-color: #f4a460;
   height: 240px;
   border-radius: 5%;
+}
+.i-1 {
+  background-color: #f8b05d;
+}
+.i-2 {
+  background-color: #aeee55;
+}
+.i-3 {
+  background-color: #f984d6;
 }
 .Proposer-description {
   margin-top: 10px;
