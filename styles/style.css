@@ -35,6 +35,7 @@ header {
   color: #efe35e;
   -webkit-text-stroke: .2px #ffb94a;
 }
+/* movie */
 .movie-name{
   text-align: center;
   font-weight: bold;
@@ -45,24 +46,28 @@ header {
   margin: 10px 10px 60px 60px;
 }
 .movie-left{
-
+   margin-right: 20px;
 }
 .movie-right{
-
+   margin-top: 60px;
+   margin-left: 20px;
 }
 .movie-place{
-   color: #08a6fa;
+   color: #08a6fa
+   ;
 }
 .movie-image{
 
 }
 .movie-title{
+  font-size: 15px;
 
 }
 .movie-sentence{
 
 }
 .movie-hashtag{
+
 
 }.Proposer-img {
     border-radius: 50%;
